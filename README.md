@@ -9,12 +9,14 @@ PS: The rightmost element is always a leader.
 Test cases :
 
 Input
+
 A = [16, 17, 4, 3, 5, 2]
 
 Output
 [17, 2, 5]
 
 Input
+
 A = [5, 4]
 
 Output
