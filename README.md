@@ -13,6 +13,7 @@ Input
 A = [16, 17, 4, 3, 5, 2]
 
 Output
+
 [17, 2, 5]
 
 Input
@@ -20,4 +21,5 @@ Input
 A = [5, 4]
 
 Output
+
 [5, 4]
